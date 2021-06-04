@@ -1,4 +1,4 @@
-# BRTs
+# Boosted Regression Trees (BRTs)
 R code for generating fluvial fish species distribution models using Boosted Regression Trees (BRTs)
 
 ## Contacts:
